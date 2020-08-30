@@ -1,4 +1,3 @@
-import pymysql
 import redis
 import random
 from collections import Counter
